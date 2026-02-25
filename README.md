@@ -48,5 +48,5 @@
 2. else{如果}
 
 # 网页版入口
-[https://han123ha.github.io/my_han_123_coding/index.html]
-[https://han123ha.github.io/my_han_123_coding/hxf%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%801.3.2.html]
+[https://han123ha.github.io/my_han.123_coding/index.html]
+[https://han123ha.github.io/my_han.123_coding/hxf%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%801.3.2.html]
